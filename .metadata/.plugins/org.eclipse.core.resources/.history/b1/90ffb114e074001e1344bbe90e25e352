@@ -1,0 +1,11 @@
+package com.BrowserAutomation;
+
+public class EdgeDriver {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.edge.driver", "C:\\Users\\ADMIN\\Desktop\\OrangeHRMApplication\\OHRMApplication\\src\\msedgedriver\\msedgedriver.exe");
+        EdgeDriver drivrer=new EdgeDriver();
+	}
+
+}

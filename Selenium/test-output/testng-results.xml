@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T15:15:34 PST" name="Default suite" finished-at="2023-12-26T15:17:02 PST" duration-ms="87850">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T15:15:34 PST" name="Default test" finished-at="2023-12-26T15:17:02 PST" duration-ms="87850">
+      <class name="com.TestNG.AutoIT">
+        <test-method is-config="true" signature="OHRMapplicationlaunch()[pri:0, instance:com.TestNG.AutoIT@3c73951]" started-at="2023-12-26T15:15:34 PST" name="OHRMapplicationlaunch" finished-at="2023-12-26T15:16:07 PST" duration-ms="32165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OHRMapplicationlaunch -->
+        <test-method signature="login()[pri:1, instance:com.TestNG.AutoIT@3c73951]" started-at="2023-12-26T15:16:07 PST" name="login" description="OHRM Login Test" finished-at="2023-12-26T15:16:25 PST" duration-ms="18236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Pim()[pri:4, instance:com.TestNG.AutoIT@3c73951]" started-at="2023-12-26T15:16:25 PST" name="Pim" description="OHRM Pim Test" finished-at="2023-12-26T15:16:26 PST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pim -->
+        <test-method signature="AddEmployee()[pri:5, instance:com.TestNG.AutoIT@3c73951]" started-at="2023-12-26T15:16:26 PST" name="AddEmployee" description="Add Employee test" finished-at="2023-12-26T15:16:32 PST" duration-ms="5993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method signature="AddEmployeedata()[pri:6, instance:com.TestNG.AutoIT@3c73951]" started-at="2023-12-26T15:16:32 PST" name="AddEmployeedata" description="Add Employee Test" finished-at="2023-12-26T15:17:02 PST" duration-ms="30482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeedata -->
+      </class> <!-- com.TestNG.AutoIT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
